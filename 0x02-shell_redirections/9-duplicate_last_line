@@ -1,2 +1,2 @@
 #!/bin/bash
-./iacta | cat -e | tail -n 1 >> ./iacta
+./iacta | cat -e | tail -1 >> ./iacta
